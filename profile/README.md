@@ -26,10 +26,8 @@ A **TACO Assessoria de Comunicação** é uma agência e consultoria estratégic
 
 ---
 
-### 📬 Contato Institucional & Ouvidoria
+### 📍 Localização
 
-* **Liderança Técnica & Fundador:** [Marcio Krefta](https://github.com/kreftamarcio)
-* **Canal de Compliance & LGPD:** `compliance@q1taco.com` / `tacoassessoria@gmail.com`
 * **Localização:** Florianópolis, Santa Catarina, Brasil
 
 <div align="center">
